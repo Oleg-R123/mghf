@@ -1,0 +1,10 @@
+a=[1,2,3,4]
+b=[]
+print(id(a))
+print(id(b))
+b=a
+print(id(a))
+print(id(b))
+b.append(159)
+print(a)
+print(b)
