@@ -1,2 +1,2 @@
 a=7
-print('hello', a)
+print('hello wor', a)
